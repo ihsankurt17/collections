@@ -32,5 +32,6 @@ public class ogrenci implements Comparable<personel> {
     @Override
     public int compareTo(personel o) {
         return 0;
+
     }
 }
